@@ -1,18 +1,18 @@
 {
-  "name": "winteriscoming",
-  "displayName": "Winter is Coming Theme",
-  "description": "Preferred dark/light themes by John Papa",
+  "name": "winteriscoming-rain",
+  "displayName": "Winter is Coming Theme - RainCmd",
+  "description": "Preferred dark/light themes by RainCmd",
   "icon": "images/winteriscoming-icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/vscode-winteriscoming.git"
+    "url": "https://github.com/RainCmd/vscode-winteriscoming.git"
   },
   "galleryBanner": {
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "1.4.4",
+  "version": "1.0.0",
   "publisher": "johnpapa",
   "keywords": [
     "Theme",
@@ -28,38 +28,37 @@
     "vscode": "^1.17.0"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Winter is Coming (Dark Blue)",
+        "label": "Rain - Winter is Coming (Dark Blue)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark Blue - No Italics)",
+        "label": "Rain - Winter is Coming (Dark Blue - No Italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-no-italics-theme.json"
       },
       {
-        "label": "Winter is Coming (Light)",
+        "label": "Rain - Winter is Coming (Light)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Light - No Italics)",
+        "label": "Rain - Winter is Coming (Light - No Italics)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-no-italics-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark Black)",
+        "label": "Rain - Winter is Coming (Dark Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark Black - No Italics)",
+        "label": "Rain - Winter is Coming (Dark Black - No Italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-color-no-italics-theme.json"
       }

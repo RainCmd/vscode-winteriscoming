@@ -335,7 +335,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#87aff4"
+        "foreground": "#dcf487"
       }
     },
     {
