@@ -169,14 +169,14 @@
       "name": "TypeScript Classes",
       "scope": "meta.class entity.name.type.class.tsx",
       "settings": {
-        "foreground": "#d29ffcff"
+        "foreground": "#4ec9b0"
       }
     },
     {
       "name": "TypeScript Entity Name Type",
       "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
       "settings": {
-        "foreground": "#d29ffcff"
+        "foreground": "#4ec9b0"
       }
     },
     {
@@ -210,7 +210,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": ["variable.other.readwrite.js", "variable.parameter"],
       "settings": {
-        "foreground": "#d7dbe0"
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -239,14 +239,14 @@
       "name": "Keywords and Storage types",
       "scope": ["keyword", "storage.type", "storage.modifier", "variable.language.this"],
       "settings": {
-        "foreground": "#00bff9"
+        "foreground": "#0080c0"
       }
     },
     {
       "name": "Keywords operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#00bff9"
+        "foreground": "#0080c0"
       }
     },
     {
@@ -308,14 +308,14 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#dcf487"
+        "foreground": "#dcdcaa"
       }
     },
     {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#d7dbe0",
+        "foreground": "#9cdcfe",
         "fontStyle": ""
       }
     },
@@ -331,7 +331,7 @@
       "name": "Entity Name Type",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#d29ffc"
+        "foreground": "#4ec9b1"
       }
     },
     {
