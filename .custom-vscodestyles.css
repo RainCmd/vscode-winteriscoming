@@ -61,9 +61,11 @@
   font-weight: normal;
   letter-spacing: 1px;
 }
+/*
 .vs-dark .monaco-workbench>.part.titlebar>.window-title {
-  /* color: #f7ecb5; */
+   color: #f7ecb5; 
 }
+*/
 
 .vs-dark .monaco-workbench .debug-actions-widget {
   border-top: 1px solid #b15a91;

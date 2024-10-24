@@ -1,6 +1,7 @@
 {
   "name": "Winter Is Coming",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
@@ -540,14 +541,14 @@
     "diffEditor.removedTextBorder": "#ef53504d",
     "editor.background": "#282822",
     "editor.foreground": "#a7dbf7",
-    "editor.hoverHighlightBackground": "#0c4994",
+    "editor.hoverHighlightBackground": "#0c49947f",
     "editor.lineHighlightBackground": "#0c499477",
     "editor.selectionBackground": "#103362",
-    "editor.selectionHighlightBackground": "#103362",
-    "editor.findMatchHighlightBackground": "#103362",
-    "editor.rangeHighlightBackground": "#103362",
-    "editor.wordHighlightBackground": "#103362",
-    "editor.wordHighlightStrongBackground": "#103362",
+    "editor.selectionHighlightBackground": "#1033627f",
+    "editor.findMatchHighlightBackground": "#1033627f",
+    "editor.rangeHighlightBackground": "#1033627f",
+    "editor.wordHighlightBackground": "#1033627f",
+    "editor.wordHighlightStrongBackground": "#1033627f",
     "editor.inactiveSelectionBackground": "#7e57c25a",
     "editorBracketMatch.background": "#219fd54d",
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
@@ -559,7 +560,7 @@
     "editorGroupHeader.tabsBackground": "#282822",
     "editorGutter.background": "#282822",
     "editorHoverWidget.background": "#282822",
-    "editorIndentGuide.activeBackground": "#C792EA",
+    "editorIndentGuide.activeBackground1": "#C792EA",
     "editorLineNumber.foreground": "#219fd5",
     "editorWarning.foreground": "#ffca28",
     "editorWhitespace.foreground": "#3B3A32",
@@ -571,7 +572,7 @@
     "editorSuggestWidget.highlightForeground": "#ffffff",
     "editorSuggestWidget.selectedBackground": "#5f7e97",
     "editorHoverWidget.border": "#5f7e97",
-    "editorIndentGuide.background": "#0e2c45",
+    "editorIndentGuide.background1": "#0e2c45",
     "errorForeground": "#EF5350",
     "gitDecoration.modifiedResourceForeground": "#219fd5",
     "gitDecoration.untrackedResourceForeground": "#5ABEB0",
@@ -617,7 +618,7 @@
     "peekViewTitleDescription.foreground": "#697098",
     "peekViewTitleLabel.foreground": "#cecece",
     "pickerGroup.border": "#219fd544",
-    "quickInput.list.focusBackground": "#219fd5",
+    "quickInputList.focusBackground": "#219fd5",
     "scrollbar.shadow": "#010b14",
     "scrollbarSlider.activeBackground": "#084d8180",
     "scrollbarSlider.background": "#084d8180",
@@ -649,8 +650,8 @@
     "titleBar.border": "#303030",
     "titleBar.inactiveBackground": "#000a11",
     "walkThrough.embeddedEditorBackground": "#001111",
-    "welcomePage.buttonBackground": "#282822",
-    "welcomePage.buttonHoverBackground": "#282822",
+    //"welcomePage.buttonBackground": "#282822",
+    //"welcomePage.buttonHoverBackground": "#282822",
     "widget.shadow": "#219fd5"
   }
 }

@@ -1,6 +1,7 @@
 {
   "name": "Winter is Coming",
   "type": "light",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
@@ -543,11 +544,11 @@
     "editor.hoverHighlightBackground": "#36b2e7a4",
     "editor.lineHighlightBackground": "#eff2ef",
     "editor.selectionBackground": "#cee1f0",
-    "editor.selectionHighlightBackground": "#cee1f0",
-    "editor.findMatchHighlightBackground": "#cee1f0",
-    "editor.rangeHighlightBackground": "#cee1f0",
-    "editor.wordHighlightBackground": "#cee1f0",
-    "editor.wordHighlightStrongBackground": "#cee1f0",
+    "editor.selectionHighlightBackground": "#cee1f07f",
+    "editor.findMatchHighlightBackground": "#cee1f07f",
+    "editor.rangeHighlightBackground": "#cee1f07f",
+    "editor.wordHighlightBackground": "#cee1f07f",
+    "editor.wordHighlightStrongBackground": "#cee1f07f",
     "editorBracketMatch.background": "#219fd54d",
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
@@ -558,8 +559,8 @@
     "editorGroupHeader.tabsBackground": "#fff",
     "editorGutter.background": "#fff",
     "editorHoverWidget.background": "#fff",
-    "editorIndentGuide.activeBackground": "#2f86d2",
-    "editorIndentGuide.background": "#eff2ef",
+    "editorIndentGuide.activeBackground1": "#2f86d2",
+    "editorIndentGuide.background1": "#eff2ef",
     "editorLineNumber.foreground": "#2f86d2",
     "editorWhitespace.foreground": "#C4C5CD",
     "editorWidget.background": "#ddd",

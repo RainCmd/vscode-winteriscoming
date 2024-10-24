@@ -1,6 +1,7 @@
 {
   "name": "Winter Is Coming",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
@@ -541,14 +542,14 @@
     "editor.background": "#011627",
     "editor.foreground": "#a7dbf7",
     "editor.inactiveSelectionBackground": "#7e57c25a",
-    "editor.hoverHighlightBackground": "#0c4994",
+    "editor.hoverHighlightBackground": "#0c49947f",
     "editor.lineHighlightBackground": "#0c499477",
     "editor.selectionBackground": "#103362",
-    "editor.selectionHighlightBackground": "#103362",
-    "editor.findMatchHighlightBackground": "#103362",
-    "editor.rangeHighlightBackground": "#103362",
-    "editor.wordHighlightBackground": "#103362",
-    "editor.wordHighlightStrongBackground": "#103362",
+    "editor.selectionHighlightBackground": "#1033627f",
+    "editor.findMatchHighlightBackground": "#1033627f",
+    "editor.rangeHighlightBackground": "#1033627f",
+    "editor.wordHighlightBackground": "#1033627f",
+    "editor.wordHighlightStrongBackground": "#1033627f",
     "editorBracketMatch.background": "#219fd54d",
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
@@ -560,8 +561,8 @@
     "editorGutter.background": "#011627",
     "editorHoverWidget.background": "#011627",
     "editorHoverWidget.border": "#5f7e97",
-    "editorIndentGuide.activeBackground": "#C792EA",
-    "editorIndentGuide.background": "#0e2c45",
+    "editorIndentGuide.activeBackground1": "#C792EA",
+    "editorIndentGuide.background1": "#0e2c45",
     "editorLineNumber.foreground": "#219fd5",
     "editorSuggestWidget.background": "#2C3043",
     "editorSuggestWidget.border": "#2B2F40",
@@ -617,7 +618,7 @@
     "peekViewTitleDescription.foreground": "#697098",
     "peekViewTitleLabel.foreground": "#cecece",
     "pickerGroup.border": "#219fd544",
-    "quickInput.list.focusBackground": "#219fd5",
+    "quickInputList.focusBackground": "#219fd5",
     "scrollbar.shadow": "#010b14",
     "scrollbarSlider.activeBackground": "#084d8180",
     "scrollbarSlider.background": "#084d8180",
@@ -649,8 +650,8 @@
     "titleBar.border": "#303030",
     "titleBar.inactiveBackground": "#000a11",
     "walkThrough.embeddedEditorBackground": "#001111",
-    "welcomePage.buttonBackground": "#011627",
-    "welcomePage.buttonHoverBackground": "#011627",
+    //"welcomePage.buttonBackground": "#011627",
+    //"welcomePage.buttonHoverBackground": "#011627",
     "widget.shadow": "#219fd5"
   }
 }
