@@ -312,11 +312,10 @@
       }
     },
     {
-      "name": "Function macro",
+      "name": "Function name macro",
       "scope": "entity.name.function.macro",
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#5a4dd1"
+        "foreground": "#877fcf"
       }
     },
     {

@@ -243,13 +243,6 @@
       }
     },
     {
-      "name": "Storage struct type",
-      "scope": "storage.type.struct",
-      "settings": {
-        "foreground": "#86c691"
-      }
-    },
-    {
       "name": "Keywords operators",
       "scope": ["keyword.operator"],
       "settings": {
@@ -319,11 +312,10 @@
       }
     },
     {
-      "name": "Function macro",
+      "name": "Function name macro",
       "scope": "entity.name.function.macro",
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#5a4dd1"
+        "foreground": "#877fcf"
       }
     },
     {
@@ -364,10 +356,24 @@
       }
     },
     {
+      "name": "Entity Name Type Struct",
+      "scope": "entity.name.type.struct",
+      "settings": {
+        "foreground": "#86c692"
+      }
+    },
+    {
       "name": "Entity Name Type Interface",
       "scope": "entity.name.type.interface",
       "settings": {
         "foreground": "#82e6a0"
+      }
+    },
+    {
+      "name": "Entity Name Type Delegate Task",
+      "scope": "variable.other.event",
+      "settings": {
+        "foreground": "#4ec962"
       }
     },
     {
