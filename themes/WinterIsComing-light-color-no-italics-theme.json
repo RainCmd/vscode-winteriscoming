@@ -312,6 +312,14 @@
       }
     },
     {
+      "name": "Function macro",
+      "scope": "entity.name.function.macro",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#5a4dd1"
+      }
+    },
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -325,6 +333,13 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#0444ac"
+      }
+    },
+    {
+      "name": "Entity Name Namespace",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#3ca38f"
       }
     },
     {

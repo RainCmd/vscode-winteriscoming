@@ -251,6 +251,13 @@
       }
     },
     {
+      "name": "Storage struct type",
+      "scope": "storage.type.struct",
+      "settings": {
+        "foreground": "#86c691"
+      }
+    },
+    {
       "name": "Keywords operators",
       "scope": ["keyword.operator"],
       "settings": {
@@ -323,6 +330,14 @@
       }
     },
     {
+      "name": "Function macro",
+      "scope": "entity.name.function.macro",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#5a4dd1"
+      }
+    },
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -339,10 +354,31 @@
       }
     },
     {
+      "name": "Entity Name Namespace",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#3ca38f"
+      }
+    },
+    {
       "name": "Entity Name Type",
       "scope": "entity.name.type",
       "settings": {
         "foreground": "#4ec9b1"
+      }
+    },
+    {
+      "name": "Entity Name Type Enum",
+      "scope": "entity.name.type.enum",
+      "settings": {
+        "foreground": "#bbd7a3"
+      }
+    },
+    {
+      "name": "Entity Name Type Interface",
+      "scope": "entity.name.type.interface",
+      "settings": {
+        "foreground": "#82e6a0"
       }
     },
     {
