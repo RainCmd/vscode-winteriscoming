@@ -338,7 +338,7 @@
       "name": "Entity Name Namespace",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#3ca38f"
+        "foreground": "#91e7cb"
       }
     },
     {
