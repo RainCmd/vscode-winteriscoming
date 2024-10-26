@@ -15,9 +15,10 @@
   "version": "1.0.0",
   "publisher": "rain-cmd",
   "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Light Theme"
+    "rain",
+    "raintheme",
+    "raincmd",
+    "raindrop"
   ],
   "scripts": {
     "list": "npx vsce ls",
