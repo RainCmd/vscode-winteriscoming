@@ -1,7 +1,7 @@
 {
   "name": "rain",
   "displayName": "Rain Theme",
-  "description": "Preferred Rain themes",
+  "description": "A dark blue themes",
   "icon": "images/rain-icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -35,12 +35,12 @@
       {
         "label": "Rain",
         "uiTheme": "vs-dark",
-        "path": "./themes/rain-theme.json"
+        "path": "./themes/rain-color-theme.json"
       },
       {
         "label": "Rain(No Italics)",
         "uiTheme": "vs-dark",
-        "path": "./rain-no-italics-theme.json"
+        "path": "./themes/rain-no-italics-color-theme.json"
       }
     ]
   }
