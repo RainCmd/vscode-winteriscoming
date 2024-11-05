@@ -1,4 +1,4 @@
-# Rain主题
+# vortex
 
 This extension for Visual Studio Code adds themes titled "Rain". There are dark theme.
 

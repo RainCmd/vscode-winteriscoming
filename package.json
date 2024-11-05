@@ -1,8 +1,8 @@
 {
-  "name": "rain",
-  "displayName": "Rain Theme",
+  "name": "vortex",
+  "displayName": "vortex",
   "description": "A dark blue themes",
-  "icon": "images/rain-icon.png",
+  "icon": "images/vortex-icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
@@ -12,13 +12,12 @@
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "1.0.1",
-  "publisher": "rain-cmd",
+  "version": "1.0.0",
+  "publisher": "渴望蓝天",
   "keywords": [
-    "rain",
-    "raintheme",
-    "raincmd",
-    "raindrop"
+    "vortex",
+    "dark",
+    "blue"
   ],
   "scripts": {
     "list": "npx vsce ls",
@@ -34,14 +33,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rain",
+        "label": "Vortex",
         "uiTheme": "vs-dark",
-        "path": "./themes/rain-color-theme.json"
-      },
-      {
-        "label": "Rain(No Italics)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rain-no-italics-color-theme.json"
+        "path": "./themes/vortex-color-theme.json"
       }
     ]
   }
